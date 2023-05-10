@@ -1,0 +1,88 @@
+* {
+    margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.intro-1 {
+    color: white;
+    background-color: #5f4581;
+    padding: 15px;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+}
+
+.intro-2 {
+    color: white;
+    background-color: #3a285b;
+    padding: 15px 40px 15px 40px;
+    text-align: justify;
+    font-size: 15px;
+}
+
+.skills {
+    color: white;
+    background-color: #5f4581;
+    padding: 15px 30px 15px 30px;
+}
+
+.skill {
+    height: 35px;
+    width: 100px;
+    color: white;
+    background-color: #3a285b;
+    border: none;
+    font-size: 15px;
+    border-radius: 3px;
+    margin: 10px;
+}
+
+.experience {
+    color: white;
+    background-color: #3a285b;
+    padding: 15px 40px 15px 40px;
+    text-align: justify;
+    font-size: 15px;
+}
+
+.ex {
+    color: white;
+    font-size: 16px;
+}
+
+.projects {
+    color: white;
+    background-color: #3a285b;
+    padding: 15px 40px 15px 40px;
+    text-align: justify;
+}
+
+.pr {
+    color: white;
+    font-size: 16px;
+}
+
+.Extras {
+    color: white;
+    background-color: #5f4581;
+    padding: 15px 40px 15px 40px;
+    text-align: justify;
+}
+
+a {
+    color: white;
+}
+
+.connect {
+    color: white;
+    background-color: #3a285b;
+    padding: 15px 40px 15px 40px;
+}
+
+.footer {
+    color: white;
+    background-color: #5f4581;
+    padding: 15px 40px 15px 40px;
+    font-size: 20px;
+    text-align: center;
+}
